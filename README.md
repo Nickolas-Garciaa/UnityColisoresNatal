@@ -18,7 +18,7 @@ No qual voce é o papai noel e vai passar por plataformas natalinas para entrega
 <br>
 
 <h1>Como Jogar:</h1>
-
+O controle para voce passar das plataformas é o comum, WASD
 
 <br>
 
