@@ -7,12 +7,12 @@ No qual voce é o papai noel e vai passar por plataformas natalinas para entrega
 
 
 <h1>Cenas</h1>
-<h1>Cena 1:</h1>
+<h2>Cena 1:</h2>
 <h3>Cena aonde o Papai noel precisa passar pelas plataformas</h3>
 
 ![UnityNatal](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/9c2cc606-99e7-49e6-bf88-948e3dd3aff6)
 
-<h1>Cena 2:</h1>
+<h2>Cena 2:</h2>
 <h3>Cena final após entregas os presentes</h3>
 
 ![Final](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/75bab869-580f-4d6c-8d0b-b5844c120945)
