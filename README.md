@@ -22,5 +22,10 @@ No qual voce é o papai noel e vai passar por plataformas natalinas para entrega
 
 <br>
 
+<h1>Scripts Ultilizados:</h1>
+
+
+<br>
+
 <h1>Video do jogo Rolando</h1>
 
