@@ -53,8 +53,8 @@ No qual voce é o papai noel e vai passar por plataformas natalinas para entrega
 
 ![Plataformas](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/4868d35a-a4a7-4e5a-b760-e9a9fd023049)
 
-<h2>Static Trigger Collider:</h2>
-<h3>Static Trigger Collider está presente no Ultimo presente que te leva a Cena 2</h3>
+<h2>Static Trigger Collidere Kinematic Rigidbody Trigger Collider:</h2>
+<h3>Static Trigger Collider e Kinematic Rigidbody Trigger Collider está presente no Ultimo presente que te leva a Cena 2</h3>
 
 ![presente](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/409f1cb9-c565-4147-948b-3fbe8fc1b09d)
 
