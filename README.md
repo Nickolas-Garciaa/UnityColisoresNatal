@@ -48,8 +48,8 @@ No qual voce é o papai noel e vai passar por plataformas natalinas para entrega
 
 ![noel](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/4a78e7e7-b4d6-48af-81a0-4dfeb5795069)
 
-<h2>Kinematic Rigidbody Collider:</h2>
-<h3>Kinematic Rigidbody Collider está presente nas plataformas Presentes</h3>
+<h2>Kinematic Rigidbody Collidere e Rigidbody Trigger Collider:</h2>
+<h3>Kinematic Rigidbody Collider e Rigidbody Trigger Collider está presente nas plataformas Presentes</h3>
 
 ![Plataformas](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/4868d35a-a4a7-4e5a-b760-e9a9fd023049)
 
