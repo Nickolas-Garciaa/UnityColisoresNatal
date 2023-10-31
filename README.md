@@ -38,8 +38,15 @@ No qual voce é o papai noel e vai passar por plataformas natalinas para entrega
 ![2](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/5d3e625c-fedb-405e-82c1-2e8d35e53f52)
 
 <h1>Cada Colisor e suas Funções</h1>
+<H2>Static Collider:</H2>
+<H3>Static Collider está presente nas arvores, arbustos e certos enfeites natalinos</H3>
 
+![arvores](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/4bc31b43-eb4a-4334-a24b-442cf4adb27c)
 
+<h2>RigidBody Collider:</h2>
+<h3>RigidBody está presente no Papai noel</h3>
+
+![noel](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/4a78e7e7-b4d6-48af-81a0-4dfeb5795069)
 
 <br>
 
