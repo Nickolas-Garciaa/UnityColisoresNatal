@@ -20,8 +20,22 @@ No qual voce é o papai noel e vai passar por plataformas natalinas para entrega
 <br>
 
 <H1>Assets Ultilizados</H1>
+<h2>Papai Noel</h2>
+<h3>Personagem Controlavel</h3>
 
-<br>
+![papainoel](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/5193b49f-9b55-44a1-8ccb-8891bf4e2998)
+
+<h2>Fundo</h2>
+<H3>Fundo da Cena 1</H3>
+
+![Fundo](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/fe305eba-0dbe-4247-af79-2f71a058720c)
+
+<h2>Decorações Natalinas</h2>
+<h3>Decorações da Cena 1</h3>
+
+![Decoração](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/15d770ac-de45-432f-a716-3c08b3ec5715)
+
+![2](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/5d3e625c-fedb-405e-82c1-2e8d35e53f52)
 
 <h1>Cada Colisor e suas Funções</h1>
 
