@@ -73,6 +73,13 @@ O controle para voce passar das plataformas é o comum, WASD
 <br>
 
 <h1>Scripts Ultilizados:</h1>
+
+<h2>Menu e creditos</h2>
+<h3>Script Para iniciar, fechar e reiniciar o Jogo</h3>
+
+![codigomenu](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/2ab96f7c-b1b3-4731-aaa9-4f4730dfd5f1)
+
+
 <H2>Mudar de Cena:</H2>
 <h3>Script Para mudar a cena apos entregar os presentes</h3>
 
