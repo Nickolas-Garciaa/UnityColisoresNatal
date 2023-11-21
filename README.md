@@ -5,7 +5,7 @@ Nossa cena é bem simples, com o tema de Natal. <br>
 No qual voce é o papai noel e vai passar por plataformas natalinas para entregar presentes para crianças
 <h1>Link do trabalho:</h1>
   
-https://drive.google.com/drive/folders/14Fkcm94QEHr1YLepCM3Vow8bRqPuag4U?usp=drive_link
+https://drive.google.com/file/d/1OHH_owaD8zYfbrrKBbOLdJqXf1_q_43w/view?usp=sharing
 
 <h1>Cenas</h1>
 
