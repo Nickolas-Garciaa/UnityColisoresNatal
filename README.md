@@ -113,6 +113,7 @@ O controle para voce passar das plataformas é o comum, WASD
 <h1>Video do jogo Rolando</h1>
 
 
+https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/610b636a-9ea1-46ee-aaf8-cdbbac05f893
 
 
 
@@ -121,10 +122,6 @@ O controle para voce passar das plataformas é o comum, WASD
 
 
 
-
-
-
-https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/b8602e77-47f5-4642-8c0e-df9db1a3abc1
 
 
 
