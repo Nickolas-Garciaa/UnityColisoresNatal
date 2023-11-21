@@ -70,11 +70,17 @@ https://drive.google.com/drive/folders/14Fkcm94QEHr1YLepCM3Vow8bRqPuag4U?usp=dri
 <h1>Como Jogar:</h1>
 O controle para voce passar das plataformas é o comum, WASD
 
+<h1>HUD de Tempo:</h1>
+<h2>Esse HUD vai contar os segundos e minutos jogados na partida pelo jogador</h2>
+
+![Captura de tela 2023-11-20 230918](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/c4ba1f13-a3dd-49e2-939f-843672cca9c5)
+
+
 <br>
 
 <h1>Scripts Ultilizados:</h1>
 
-<h2>Menu e creditos</h2>
+<h2>Menu e creditos:</h2>
 <h3>Script Para iniciar, fechar e reiniciar o Jogo</h3>
 
 ![codigomenu](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/2ab96f7c-b1b3-4731-aaa9-4f4730dfd5f1)
@@ -94,6 +100,12 @@ O controle para voce passar das plataformas é o comum, WASD
 <h3>Script Para fazer as plataformas e o Presente Final se moverem de um lado ao outro</h3>
 
 ![Captura de tela 2023-10-30 082823](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/3ac057a9-4bb5-484b-8a0e-a0ca0cafd5dd)
+
+<h2>Temporizador:</h2>
+<h3>Script Para fazer o temporizador contar os segundos e minutos</h3>
+
+![Captura de tela 2023-11-20 230859](https://github.com/Nickolas-Garciaa/UnityColisoresNatal/assets/128262640/027e5297-d5da-46b3-ba85-5c383070e4e9)
+
 
 
 <br>
